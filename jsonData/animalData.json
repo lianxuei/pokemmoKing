@@ -1,0 +1,2096 @@
+[{
+		"quality": "白",
+		"name": "沃夫",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "白",
+		"name": "正雄",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "白",
+		"name": "贝尔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "绿",
+		"name": "怀特",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "绿",
+		"name": "小空",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "绿",
+		"name": "佑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "绿",
+		"name": "小墨",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "绿",
+		"name": "尼尔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "伊丽莎",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "爱豆",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "伽利略",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "小己",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "杰克",
+		"cp": ["艾若思"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "蓝",
+		"name": "强生",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "娜塔莎",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "艾伦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "埃文",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "小窝",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "洛斯特",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "妮妮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "米兰",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "柳祥",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "宝妮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "伊芙琳",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "黑黑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "泽诺",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "嗷嗷",
+		"cp": ["咩咩"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "蓝",
+		"name": "弗兰克",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "艾薇",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "阿星",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "大麦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "爱尔夏",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "穆尔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "迪尔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "斯腾",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "探探蛙",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "药童",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "赛博",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "布莱克",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "安奈",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "奈奈",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "鸢鸢",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "夏露",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "九儿",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "小暑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "处暑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "锋",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "小美",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "红果果",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "渡寒",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "幽云",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "雪球",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "糖糖",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "利奥",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "琳达",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "兰斯",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "小噜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "归然",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "吉里",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "山乐",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "面福",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "俊硕",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "阿浪",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "朗格",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "露丝",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "肯特",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "蘑布鲁",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "蓝",
+		"name": "蘑瑞德",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "安格瑞",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "籁",
+		"cp": ["滢心"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "爱米儿",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "伊娃",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "吉米",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "布兰妮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "卡尔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "佟里",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "汉森",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "孤梦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "向阳",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "瑞恩",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "咩咩",
+		"cp": ["嗷嗷"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "莲娜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "吴刚",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "七宝",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "珀尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "布鲁",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "端端",
+		"cp": ["哞哞"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "栗花",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "穗禾",
+		"cp": ["知秋"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "任寅",
+		"cp": ["阿卯"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "星愿",
+		"cp": ["莓莓"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "小樱",
+		"cp": [
+			"哈娜",
+			"桃桃"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "玉琪",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "莉莉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "爱莎",
+		"cp": ["朵莉"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "卢比斯",
+		"cp": [
+			"赫丝",
+			"巴丝特"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "玲珑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "乔伊",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "青依",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "夜妙紫",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "萝西",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "珍妮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "知秋",
+		"cp": ["穗禾"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "小枫",
+		"cp": ["含岚"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "哈皮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "滚滚",
+		"cp": ["鲁道夫"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "知礼",
+		"cp": ["梅苏"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "花蔓",
+		"cp": ["佳尼"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "罗斯",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "泷",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "桃桃",
+		"cp": [
+			"小樱",
+			"哈娜"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "薇拉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "芭菲",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "木犀",
+		"cp": ["天香"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "幽丽",
+		"cp": ["莫娜"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "紫闪贝尔",
+		"cp": "金闪哈娜",
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "福福",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "朝",
+		"cp": ["夕"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "鲁道夫",
+		"cp": ["滚滚"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "合乐",
+		"cp": ["迪恩"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "大仙",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "福童",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "艾莉芬",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "莓莓",
+		"cp": ["星愿"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "皮艾诺",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "芙妮",
+		"cp": ["倪倪"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "星期五",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "梅苏",
+		"cp": ["知礼"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "哈利",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "嘎嘎",
+		"cp": [
+			"派特"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "花铃",
+		"cp": ["沁兰"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "狸夏",
+		"cp": ["晶莹"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "浅星",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "司",
+		"cp": ["雅"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "米娅",
+		"cp": ["图尔"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "凌凌",
+		"cp": ["悠娜"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "星点儿",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "小雪",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "小圆",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "莎菲",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "悠悠",
+		"cp": ["莲幽"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "阿加莎",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "灵溪",
+		"cp": ["景云"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "辰龙",
+		"cp": ["辰龙"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "瑶音",
+		"cp": ["句芒"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "戴维斯",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "佳尼",
+		"cp": ["花蔓"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "莓糕",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "阿卯",
+		"cp": ["任寅"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "巴丝特",
+		"cp": [
+			"赫丝",
+			"卢比斯"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "旭日",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "星月",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "大暑",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "赤兔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "含岚",
+		"cp": ["小枫"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "阿哲",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "立秋",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "千惠",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "希娅",
+		"cp": ["戴安娜"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "迪卡",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "海利",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "戴安娜",
+		"cp": ["希娅"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "虹灵",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "白洛",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "旭仔",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "绒绒",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "赫",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "伴夏",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "肯尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "六伊",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "青乌",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "霜霜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "童瑶",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "海蒂",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "甜羹",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "萨莎",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "奶油",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "艾德",
+		"cp": ["格蕾"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "猛冲者",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "喵馥",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "焰灵",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "小满",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "米乐",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "笙月",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "冬灵",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "四月",
+		"cp": ["樱可"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "紫",
+		"name": "书生",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "莉娜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "托尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "寻梦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "邦尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "蓬蓬",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "谷锦儿",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "娜娜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "白兰",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "小粥",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "苏苏",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "雨",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "艾丽丝",
+		"cp": ["伊拉贝丝"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "爱丽丝",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "卡帕",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "克兰",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "士多啤梨",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "布鲁啤梨",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "唐尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "哈娜",
+		"cp": [
+			"桃桃",
+			"小樱"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "朵拉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "佐伊",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "莎维亚",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "卡莉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "蝶梦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "安迪",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "酷柠",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "芙灵",
+		"cp": ["丘比特"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "库拉拉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "元宝",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "佩兮",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "斯诺",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "竹君",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "嗡嗡",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "利维",
+		"cp": ["艾丝特"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "艾丝特",
+		"cp": ["利维"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "花月",
+		"cp": [
+			"嫦娥",
+			"露娜"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "玉面",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "貔貅",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "尼娅",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "杰洛",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "如意",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "吞吞",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "赫柏",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "雪菲",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "耶提",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "织女",
+		"cp": ["牛郎"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "年",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "牛郎",
+		"cp": ["织女"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "嫦娥",
+		"cp": [
+			"露娜",
+			"花月"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "德鲁",
+		"cp": [
+			"小幽",
+			"贝拉"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "乐佩",
+		"cp": ["戴德"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "戴德",
+		"cp": ["乐佩"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "弗朗",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "咕噜",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "莉莎",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "安妮",
+		"cp": ["艾普"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "田田",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "小幽",
+		"cp": [
+			"贝拉",
+			"德鲁"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "格蕾",
+		"cp": ["艾德"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "艾拉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "阿离",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "艾琳",
+		"cp": ["多特"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "时雨",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "派特",
+		"cp": [
+			"嘎嘎"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "沁兰",
+		"cp": ["花铃"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "多特",
+		"cp": ["艾琳"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "夕",
+		"cp": ["朝"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "哞哞",
+		"cp": ["端端"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "晶莹",
+		"cp": ["狸夏"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "迪恩",
+		"cp": ["合乐"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "忆梦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "布恩",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "贝拉",
+		"cp": [
+			"小幽",
+			"德鲁"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "比利",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "莲幽",
+		"cp": ["悠悠"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "艾普",
+		"cp": ["安妮"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "艾若思",
+		"cp": ["杰克"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "诺文",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "白曦",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "赫丝",
+		"cp": [
+			"巴丝特",
+			"卢比斯"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "倪倪",
+		"cp": ["芙妮"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "蝶蝶",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "烈",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "露娜",
+		"cp": [
+			"嫦娥",
+			"花月"
+		],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "萌璐",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "奥罗拉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "天香",
+		"cp": ["木犀"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "里维",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "朵莉",
+		"cp": ["爱莎"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "莫娜",
+		"cp": ["幽丽"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "雅",
+		"cp": ["司"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "云菲",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "丘比特",
+		"cp": ["芙灵"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "图尔",
+		"cp": ["米娅"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "金闪哈娜",
+		"cp": ["紫闪贝尔"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "悠娜",
+		"cp": ["凌凌"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "可可",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "莫尼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "莱恩",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "景云",
+		"cp": ["灵溪"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "圣星",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "芊芊",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "热玛",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "诺曼",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "糯糯",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "句芒",
+		"cp": ["瑶音"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "米莉",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "滢心",
+		"cp": ["籁"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "伊拉贝丝",
+		"cp": ["艾丽丝"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "樱可",
+		"cp": ["四月"],
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "红",
+		"name": "芙蕾",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "红",
+		"name": "洛拉斯",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "红",
+		"name": "焱焱",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "红",
+		"name": "露露",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "嘟嘟",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "妙妙",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "紫",
+		"name": "可悠",
+		"cp": ["缇"],
+		"shouCang": false,
+		"cpStatus": "cp"
+	},
+	{
+		"quality": "金",
+		"name": "泡泡",
+		"cp": [],
+		"shouCang": false,
+		"cpStatus": "no"
+	},
+	{
+		"quality": "金",
+		"name": "缇",
+		"cp": ["可悠"],
+		"shouCang": false,
+		"cpStatus": "cp"
+	}
+]
