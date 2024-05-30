@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "data": {
+        "appId": "552315806482501",
+        "appName": "小森灵旅行地图鉴",
+        "needUpdate": false,
+        "version": "1.6.3",
+        "description": "1.更换热更新组件\n2.修完bug下班",
+        "pkgUrl": "https://zws.im/󠁩󠁬󠁶󠁴󠁫󠁺󠁯",
+        "wgtUrl": "https://zws.im/󠁹󠁢󠁺󠁥󠁲󠁯󠁣",
+        "isHBuilderUpdate": false,
+        "isForceUpdate": false,
+        "tip": "未传版本号，直接返回正式版，且强制需要更新"
+    }
+}
