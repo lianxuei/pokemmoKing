@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "result": {
+	"update": "可更新",
+	"version": 1.6.3,
+    "userId": 63819,
+    "userName": "2859765079",
+    "superUser": false,
+    "loginTime": 1717031882286,
+    "type": 3,
+    "validTime": 1717064282286,
+    "refreshTime": 1717042682286,
+    "extend": ""
+  },
+  "error": null,
+  "errorMessage": null
+}
