@@ -1,8 +1,1 @@
-{
-	"version": "1.0.7", 
-	"now_url": "https://zc-oss2.oss-cn-hongkong.aliyuncs.com/119%E7%89%88%E6%9C%AC.apk", 
-	"silent": 0, 
-	"force": 0,
-	"net_check": 1,
-	"note": "更新啦" 
-}
+ {  "code": 0,  "data": {    "appId": "552311023296581",    "appName": "王者冲锋",    "needUpdate": true,    "version": "1.0.3",    "description": "1.更换热更新组件",    "pkgUrl": "https://zws.im/󠁿󠁡󠁵󠁶󠁱󠁶󠁧",    "wgtUrl": "https://zws.im/󠁿󠁡󠁵󠁶󠁱󠁶󠁧",    "isHBuilderUpdate": true,    "isForceUpdate": true,    "tip": "未传版本号，直接返回正式版，且强制需要更新"  }}
