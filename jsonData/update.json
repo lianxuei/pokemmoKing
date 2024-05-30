@@ -1,8 +1,8 @@
 {
-	"version": "1.0.5", //线上版本
-	"now_url": "https://dldir1.qq.com/weixin/android/weixin802android1860_arm64.apk", //更新链接
-	"silent": 0, //是否是静默更新
-	"force": 0, //是否是强制更新
-	"net_check": 1, //非WIfi是否提示
-	"note": "产品汪汪要改这个字的颜色" //更新内容
+	"version": "1.0.5", 
+	"now_url": "https://dldir1.qq.com/weixin/android/weixin802android1860_arm64.apk", 
+	"silent": 0, 
+	"force": 0,
+	"net_check": 1,
+	"note": "产品汪汪要改这个字的颜色" 
 }
