@@ -5,9 +5,9 @@
         "appName": "小森灵旅行地图鉴",
         "needUpdate": true,
         "version": "1.6.7",
-        "description": "1.测试更新，请不要更新",
-        "pkgUrl": "https://zws.im/󠁫󠁲󠁤󠁶󠁰󠁡󠁶",
-        "wgtUrl": "https://zws.im/󠁫󠁲󠁤󠁶󠁰󠁡󠁶",
+        "description": "1.测试更新，请点击更新，会提示更新失败，然后点击立即前往",
+        "pkgUrl": "https://zws.im/󠁲󠁥󠁪󠁷󠁬󠁤󠁣",
+        "wgtUrl": "https://59-47-237-130.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-751",
         "isHBuilderUpdate": false,
         "isForceUpdate": false,
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
