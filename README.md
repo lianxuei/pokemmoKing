@@ -106,7 +106,24 @@ version: '1.0.2', //线上版本
 	"note": "更新啦" 
 }
 ```
-
+##### 小森灵事件提醒接口返回说明
+code决定提示框的显示次数，deleteCode帮助用户删除上次的缓存，每次更新记得同步增加
+needRemind决定是否开启提醒
+description为提醒内容
+imageUrl为提醒内容图片
+```json
+{
+    "code": "0",
+    "deleteCode": "-1",
+    "needRemind": true,
+    "data": {
+        "name": "小森灵事件提醒",
+        "description": "签到活动今天日（6.4）结束",
+        "imageUrl": "https://pic.imgdb.cn/item/665ed1e95e6d1bfa052ecd4b.jpg",
+        "tip": "未传版本号，直接返回正式版，且强制需要更新"
+    }
+}
+```
 
 
 #### 参与贡献
