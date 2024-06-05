@@ -114,6 +114,7 @@ imageUrl为提醒内容图片
 ```json
 {
     "code": "0",
+    "date": "2024-06-05",
     "deleteCode": "-1",
     "needRemind": true,
     "data": {
