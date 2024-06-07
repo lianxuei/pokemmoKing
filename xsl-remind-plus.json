@@ -1,18 +1,12 @@
 {
     "code": "0",
+	"date": "2024-06-06",
     "deleteCode": "-1",
     "needRemind": true,
-    "data": [{
+    "data": {
         "name": "小森灵事件提醒",
-        "date": "2024-06-05",
         "description": "聚木成林奖励领取最后一天！",
         "imageUrl": "https://pic.imgdb.cn/item/666034db5e6d1bfa0598a865.jpg",
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
-    },{
-        "name": "小森灵事件提醒",
-        "date": "2024-06-07",
-        "description": "海岛开始！",
-        "imageUrl": "https://pic.imgdb.cn/item/666034db5e6d1bfa0598a865.jpg",
-        "tip": "未传版本号，直接返回正式版，且强制需要更新"
-    }]
+    }
 }
