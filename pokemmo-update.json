@@ -5,9 +5,9 @@
         "appName": "天王APP",
         "needUpdate": true,
         "version": "1.8.2",
-        "description": "1.更新赤红彼其娘之z打法\n2.若无需求，可不更新\n3.若想要主动更新，请去自定义界面点击检查更新。",
-        "pkgUrl": "https://zws.im/󠁸‍󠁰󠁵󠁸󠁴󠁷‌󠁰󠁲󠁳󠁦",
-        "wgtUrl": "https://zws.im/󠁸‍󠁰󠁵󠁸󠁴󠁷‌󠁰󠁲󠁳󠁦",
+        "description": "1.更新赤红彼其娘之z打法\n2.若无需求，可不更新\n3.若想要主动更新，请去自定义界面点击检查更新或交流群界面复制网盘链接。",
+        "pkgUrl": "https://zws.im/󠁤󠁱󠁡󠁸󠁪󠁨󠁥",
+        "wgtUrl": "https://zws.im/󠁤󠁱󠁡󠁸󠁪󠁨󠁥‌󠁰󠁲󠁳󠁦",
         "isHBuilderUpdate": true,
         "isForceUpdate": false,
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
