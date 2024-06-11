@@ -6,8 +6,8 @@
         "needUpdate": true,
         "version": "1.8.4",
         "description": "1.更新表格UI，移植了网站的样式\n2.新版本样式可能需要调试，有问题反馈\n3.若无需求，可不更新",
-        "pkgUrl": "https://zws.im/󠁹󠁫󠁣󠁳󠁢󠁳󠁭‌󠁹󠁰󠁣‌",
-        "wgtUrl": "https://zws.im/󠁹󠁫󠁣󠁳󠁢󠁳󠁭‌󠁹󠁰󠁣‌‌󠁰󠁲󠁳󠁦",
+        "pkgUrl": "https://zws.im/󠁢󠁪‌󠁬󠁳󠁡‍‌󠁹󠁰󠁣‌",
+        "wgtUrl": "https://zws.im/󠁢󠁪‌󠁬󠁳󠁡‍‌󠁹󠁰󠁣‌‌󠁰󠁲󠁳󠁦",
         "isHBuilderUpdate": true,
         "isForceUpdate": false,
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
