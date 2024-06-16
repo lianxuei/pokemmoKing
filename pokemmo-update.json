@@ -4,12 +4,12 @@
         "appId": "552315806482501",
         "appName": "天王APP",
         "needUpdate": true,
-        "version": "1.9.2",
-        "description": "1.新增路由数据同步功能\n2.内置注册/重置密码以及个人中心",
-        "pkgUrl": "https://zws.im/󠁦󠁦󠁭󠁱󠁥󠁵󠁦",
-        "wgtUrl": "https://zws.im/󠁦󠁦󠁭󠁱󠁥󠁵󠁦",
+        "version": "1.9.3",
+        "description": "1.1.9.2版本必须更新，有严重bug\n2.新增天王备注",
+        "pkgUrl": "https://zws.im/󠁿󠁧󠁺󠁴󠁢󠁷",
+        "wgtUrl": "https://zws.im/󠁿󠁧󠁺󠁴󠁢󠁷󠁦",
         "isHBuilderUpdate": true,
-        "isForceUpdate": false,
+        "isForceUpdate": true,
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
     }
 }
