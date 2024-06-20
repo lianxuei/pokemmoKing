@@ -27,5 +27,14 @@
         "description2": "",
         "imageUrl2": "",
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
+    },
+    {
+        "name": "小森灵事件提醒",
+        "date": "2024-06-20",
+        "description1": "花季最后一天，记得活动兑换以及奖励领取！",
+        "imageUrl1": "https://bluecat.likepoems.com/images/2024/06/20/JATwA.jpg",
+        "description2": "",
+        "imageUrl2": "",
+        "tip": "未传版本号，直接返回正式版，且强制需要更新"
     }]
 }
