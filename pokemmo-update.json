@@ -6,8 +6,8 @@
         "needUpdate": true,
         "version": "1.9.6",
         "description": "1.新增同步进度提示以及修复高级筛选bug\n2.无需求可跳过本次更新，退出应用重进或者点击不再提醒\n3.7.19日我会取消更新公告",
-        "pkgUrl": "https://zws.im/󠁯‌󠁯󠁧󠁱󠁳‍‌",
-        "wgtUrl": "‌https://zws.im/󠁯‌󠁯󠁧󠁱󠁳‍",
+        "pkgUrl": "https://zws.im/󠁷󠁵󠁡󠁿󠁵󠁷󠁥‌󠁯󠁧󠁱󠁳‍‌",
+        "wgtUrl": "https://zws.im/󠁷󠁵󠁡󠁿󠁵󠁷󠁥‌󠁯󠁧󠁱󠁳‍",
         "isHBuilderUpdate": true,
         "isForceUpdate": true,
         "tip": "未传版本号，直接返回正式版，且强制需要更新"
