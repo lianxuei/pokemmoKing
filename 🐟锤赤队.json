@@ -1,0 +1,273 @@
+{
+	"success": true,
+	"result": {
+		"children": [{
+				"operate": "切🥚切💡",
+				"children": [{
+					"operate": "戏法",
+					"children": [{
+						"operate": "猴+2+2",
+						"children": [],
+						"label": "地震",
+						"id": 3
+					}],
+					"label": "卡比",
+					"id": 2
+				}],
+				"label": "水箭龟",
+				"id": 1
+			},
+			{
+				"operate": "切🥚切巨金",
+				"children": [{
+					"operate": "戏法",
+					"children": [{
+							"operate": "猴+5+2",
+							"children": [],
+							"label": "太阳伊布",
+							"id": 6
+						},
+						{
+							"operate": "猴+2+2",
+							"children": [],
+							"label": "卡比",
+							"id": 5
+						}
+					],
+					"label": "●",
+					"id": 2
+				}],
+				"label": "喷火龙",
+				"id": 3
+			},
+			{
+				"operate": "戏法",
+				"children": [{
+					"operate": "，猴+5+2",
+					"children": [],
+					"label": "大地之力",
+					"id": 4
+				}],
+				"label": "妙蛙花",
+				"id": 3
+			},
+			{
+				"operate": "戏法",
+				"children": [{
+					"operate": "猴+2+2",
+					"children": [],
+					"label": "地震",
+					"id": 6
+				}],
+				"label": "卡比兽",
+				"id": 5
+			},
+			{
+				"operate": "戏法",
+				"children": [{
+					"operate": "蜻蜓+2",
+					"children": [],
+					"label": "地震",
+					"id": 4
+				}],
+				"label": "巨沼怪",
+				"id": 3
+			},
+			{
+				"operate": "戏法",
+				"children": [{
+					"operate": "切🥚切💡",
+					"children": [{
+						"operate": "戏法",
+						"children": [{
+							"operate": "猴+2+2",
+							"children": [],
+							"label": "地震",
+							"id": 6
+						}],
+						"label": "卡比",
+						"id": 5
+					}],
+					"label": "影子球",
+					"id": 4
+				}],
+				"label": "太阳伊布",
+				"id": 3
+			},
+			{
+				"operate": "戏法",
+				"children": [{
+					"operate": "猴+3+2或者+4+2",
+					"children": [],
+					"label": "地震",
+					"id": 6
+				}],
+				"attention": "猴子死了出班上🥚返拳(🥚点班，灯点花）",
+				"label": "天蝎王",
+				"id": 3
+			},
+			{
+				"operate": "切💡",
+				"children": [{
+					"operate": "戏法",
+					"children": [{
+						"operate": "蜻蜓+3",
+						"children": [],
+						"label": "电推",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "炎武王",
+				"id": 3
+			},
+			{
+				"operate": "送巨金",
+				"children": [{
+						"operate": "上🥚切💡",
+						"children": [{
+							"operate": "戏法",
+							"children": [{
+								"operate": "蜻挺+3",
+								"children": [],
+								"label": "电推",
+								"id": 9
+							}],
+							"label": "炎武王",
+							"id": 8
+						}],
+						"label": "十万伏特",
+						"id": 7
+					},
+					{
+						"operate": "上灯",
+						"children": [{
+							"operate": "戏法",
+							"children": [{
+								"operate": "猴+2+2",
+								"children": [],
+								"label": "地震",
+								"id": 5
+							}],
+							"label": "卡比兽",
+							"id": 5
+						}],
+						"label": "伏特替换",
+						"id": 4
+					}
+				],
+				"label": "皮卡丘",
+				"id": 3
+			},
+			{
+				"operate": "换🥚",
+				"children": [{
+					"operate": "换💡",
+					"children": [{
+						"operate": "戏法",
+						"children": [{
+							"operate": "蜻挺+3",
+							"children": [],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "电推",
+						"id": 3
+					}],
+					"label": "炎武王",
+					"id": 6
+				}],
+				"label": "君主蛇",
+				"id": 7
+			},
+			{
+				"operate": "地震",
+				"children": [{
+					"operate": "换🥚换💡",
+					"children": [{
+						"operate": "戏法",
+						"children": [{
+							"operate": "蜻蜓+3",
+							"children": [],
+							"label": "电推",
+							"id": 2
+						}],
+						"label": "炎武王",
+						"id": 3
+					}],
+					"label": "恶龙",
+					"id": 6
+				}],
+				"label": "大剑鬼",
+				"id": 7
+			},
+			{
+				"operate": "电拳送巨金",
+				"children": [{
+					"operate": "上🥚返拳点掉",
+					"children": [{
+						"operate": "上💡戏法",
+						"children": [{
+							"operate": "胖嘟嘟戏法",
+							"children": [{
+								"operate": "蜻蜓+3",
+								"children": [],
+								"label": "●",
+								"id": 1
+							}],
+							"label": "电推",
+							"id": 2
+						}],
+						"label": "炎武王",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "龙头地鼠",
+				"id": 7
+			},
+			{
+				"operate": "换🥚",
+				"children": [{
+					"operate": "换灯",
+					"children": [{
+						"operate": "戏法",
+						"children": [{
+							"operate": "蜻挺+3",
+							"children": [],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "电推",
+						"id": 3
+					}],
+					"label": "炎武王",
+					"id": 6
+				}],
+				"label": "三首恶龙",
+				"id": 7
+			},
+			{
+				"operate": "送💡上巨金",
+				"children": [{
+					"operate": "戏法",
+					"children": [{
+						"operate": "猴+3",
+						"children": [],
+						"label": "土台龟",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "姆克鹰",
+				"id": 7
+			}
+
+		]
+	},
+	"error": null,
+	"errorMessage": null
+}
