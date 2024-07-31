@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pokemmoKing</title>
+    </title>
+
+</head>
+
+<body>
+    <!-- 顶部 -->
+    <div class="header">
+        <div class="header-container container row">
+            <a href="#header" class="flex-1 row header-logo">
+                <img class="header-img-1" src="./img/logo-yibu.png" alt="">
+                <span class="flex-1 header-span-1">pokemmoKing</span>
+            </a>
+
+            <a class="header-a" href="index.html">安卓</a>
+            <a class="header-a" href="pc.html">PC</a>
+            <a class="header-a" href="fruit.html">果子</a>
+            <a class="header-a" href="friend.html">友情推荐</a>
+
+            <a class="header-contact" href="https://www.123pan.com/s/75y3jv-u24l.html" target="_blank">前往网盘</a>
+
+        </div>
+    </div>
+    <!-- 果子 -->
+    <div class="goods">
+        <div class="goods-container container column">
+            <p class="goods-title">pokemmoKing-Apple</p>
+            <p class="goods-desc">
+                下载安装一键操作，简单便捷，安全稳定，还有远程老师在线指导。
+                <br><span>简单安装，永久使用</span> ！让软件安装的过程变得比以往更轻松。
+            </p>
+            <div class="goods-list flex-1">
+                <div class="goods-item column">
+                    <img class="goods-img" src="static/pspc3/img/img-007.png" alt="">
+                    <p class="goods-name">Photoshop <span>2024</span></p>
+                    <p class="goods-tip-1">最新版本首发</p>
+                    <p class="goods-tip-2">完美支持win10/win11系统</p>
+                    <p class="goods-tip-3">一键安装/永久使用</p>
+                    <a class="goods-button" href="javascript:goUrl(167)">点击下载</a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+</body>
+<style>
+    /* 顶部 */
+    .header {
+        width: 100%;
+        height: 80px;
+        background-color: #ffffff;
+        position: fixed;
+        top: 0;
+        z-index: 999;
+        box-shadow: 0px 3px 8px 0px rgba(0, 72, 129, 0.1);
+    }
+
+    .header-container,
+    .header-logo {
+        height: 80px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .container {
+        width: 1116.8px;
+        margin: 0 auto;
+    }
+
+    .header-logo {
+        height: 80px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .flex-1 {
+        flex: 1;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .header-img-1 {
+        width: 36px;
+        height: 36px;
+        margin-right: 8px;
+    }
+
+    .header-span-1 {
+        font-size: 19px;
+        color: #001E36;
+        font-weight: bold;
+    }
+
+    .header-a {
+        width: 60px;
+        height: 20px;
+        font-size: 14.4px;
+        color: #001E36;
+        font-weight: bold;
+        margin-right: 20px;
+        text-align: center;
+        display: inline-block;
+        text-decoration: none;
+    }
+
+    .header-contact {
+        width: 120px;
+        height: 40px;
+        background: #1473E6;
+        border-radius: 20px;
+        display: inline-block;
+        line-height: 40px;
+        font-weight: bold;
+        font-size: 14.4px;
+        color: #ffffff;
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    /* 主体 */
+    .goods-container {
+        height: auto;
+        margin-top: 50px;
+        background-color: #ffffff;
+        border-radius: 16px 16px 0 0;
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+    }
+
+    p {
+        margin: 0;
+        padding: 0;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        unicode-bidi: isolate;
+    }
+
+    .goods-title {
+        height: 52px;
+        line-height: 52px;
+        font-size: 32px;
+        color: #0D0D25;
+        font-weight: bold;
+        margin-top: 45px;
+        text-align: center;
+    }
+
+    .goods-desc {
+        height: auto;
+        line-height: 36.8px;
+        color: #000000;
+        font-size: 16px;
+        text-align: center;
+        margin-top: 14px;
+    }
+
+    .goods-list {
+        margin-top: 45px;
+        margin-left: 40px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .goods-item {
+        width: 320px;
+        height: 387.2px;
+        background: #FFFFFF;
+        box-shadow: 0px 3px 16px 0px rgba(0, 27, 48, 0.15);
+        border-radius: 10px;
+        box-sizing: border-box;
+        padding: 40px 0 0 30px;
+        margin-right: 32px;
+        margin-bottom: 33px;
+    }
+
+    .goods-img {
+        width: 80px;
+        height: 80px;
+    }
+
+    img {
+        border: 0;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+
+    .goods-name {
+        margin: 0;
+        padding: 0;
+        height: 47px;
+        line-height: 47px;
+        margin-top: 21px;
+        font-size: 24px;
+        color: #0D0D25;
+        font-weight: bold;
+    }
+
+    .goods-tip-1,
+    .goods-tip-2 {
+        margin: 0;
+        padding: 0;
+        height: 30px;
+        line-height: 30px;
+        color: #666666;
+        font-size: 14.4px;
+        font-weight: 400;
+    }
+
+    .goods-tip-3 {
+        margin: 0;
+        padding: 0;
+        height: 37px;
+        line-height: 37px;
+        color: #0D0D25;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 11px;
+        font-size: 16px;
+    }
+
+    .goods-button {
+        margin: 0;
+        padding: 0;
+        width: 160px;
+        height: 40px;
+        line-height: 40px;
+        background: #1473E6;
+        border-radius: 8px;
+        font-size: 16px;
+        color: #FFFFFF;
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
+
+</html>
