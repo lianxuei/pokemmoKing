@@ -1,0 +1,213 @@
+{
+  "success": true,
+  "result": {
+    "children": [
+      {
+        "operate": "戏法，猴5+2",
+        "children": [],
+        "attention": "",
+        "id": 1,
+        "label": "妙蛙花"
+      },
+      {
+        "operate": "戏法",
+        "children": [
+          {
+            "operate": "切蛋切灯",
+            "children": [
+              {
+                "operate": "戏法，猴2+2",
+                "id": "lzar3s9n",
+                "label": "卡比"
+              }
+            ],
+            "id": "lzar36iq",
+            "label": "不跑"
+          },
+          {
+            "operate": "猴2+2",
+            "id": "lzar376x",
+            "label": "跑卡比"
+          }
+        ],
+        "attention": "",
+        "id": 2,
+        "label": "太阳伊布"
+      },
+      {
+        "operate": "送巨金",
+        "children": [
+          {
+            "operate": "",
+            "children": [
+              {
+                "operate": "戏法，猴2+2",
+                "id": "lylbt0l6",
+                "label": "卡比"
+              }
+            ],
+            "id": "lylbsqky",
+            "label": "切蛋切灯"
+          }
+        ],
+        "id": 3,
+        "label": "喷火龙"
+      },
+      {
+        "operate": "切蛋切灯",
+        "children": [
+          {
+            "operate": "戏法，猴2+2",
+            "id": "lzar6ysy",
+            "label": "卡比"
+          }
+        ],
+        "id": 4,
+        "label": "水箭龟"
+      },
+      {
+        "operate": "戏法，猴2+2",
+        "id": 5,
+        "label": "卡比兽"
+      },
+      {
+        "operate": "送巨金",
+        "children": [
+          {
+            "operate": "切虫子切灯",
+            "children": [
+              {
+                "operate": "戏法，猴2+2",
+                "id": "lzar8enu",
+                "label": "卡比"
+              }
+            ],
+            "id": "lzar813t",
+            "label": "打雷"
+          },
+          {
+            "operate": "切灯",
+            "children": [
+              {
+                "operate": "戏法，猴2+2",
+                "id": "lzar95eq",
+                "label": "卡比"
+              }
+            ],
+            "id": "lzar820x",
+            "label": "电返"
+          },
+          {
+            "operate": "切蛋切灯",
+            "children": [
+              {
+                "operate": "戏法，蜻蜓+3",
+                "id": "lzar9mg2",
+                "label": "炎武王"
+              }
+            ],
+            "id": "lzar82yh",
+            "label": "十万伏特"
+          }
+        ],
+        "attention": "看技能",
+        "id": 6,
+        "label": "皮卡丘"
+      },
+      {
+        "operate": "戏法，猴3+2 ",
+        "attention": "猴子被老班打死切蛋返拳",
+        "id": 7,
+        "label": "天蝎王"
+      },
+      {
+        "operate": "送灯",
+        "children": [
+          {
+            "id": "lzarbagx",
+            "label": "切巨金戏法，猴3+0"
+          }
+        ],
+        "id": 8,
+        "label": "姆克鹰"
+      },
+      {
+        "operate": "切灯戏法，蜻蜓+3",
+        "id": 9,
+        "label": "炎武王"
+      },
+      {
+        "operate": "切蛋，切灯",
+        "children": [
+          {
+            "id": "lzarcg0h",
+            "label": "炎武王，戏法，蜻蜓+3"
+          }
+        ],
+        "id": 10,
+        "label": "君主蛇"
+      },
+      {
+        "operate": "地震",
+        "children": [
+          {
+            "operate": "切蛋切灯",
+            "children": [
+              {
+                "operate": "戏法，蜻蜓+3",
+                "id": "lzardrs1",
+                "label": "炎武王"
+              }
+            ],
+            "id": "lzardih5",
+            "label": "跑恶龙"
+          }
+        ],
+        "id": 11,
+        "label": "大剑鬼"
+      },
+      {
+        "operate": "送巨金",
+        "children": [
+          {
+            "operate": "",
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "lzarerdu"
+                  }
+                ],
+                "id": "lzareqoh",
+                "label": "切灯戏法，蜻蜓+3"
+              }
+            ],
+            "id": "lzarecm9",
+            "label": "切蛋返拳"
+          }
+        ],
+        "id": 12,
+        "label": "龙头地鼠"
+      },
+      {
+        "operate": "切蛋切灯",
+        "children": [
+          {
+            "operate": "戏法，蜻蜓+3",
+            "id": "lzarfecx",
+            "label": "炎武王"
+          }
+        ],
+        "id": 13,
+        "label": "三首恶龙"
+      },
+      {
+        "operate": "戏法，蜻蜓+2",
+        "id": 14,
+        "label": "巨沼怪"
+      }
+    ]
+  },
+  "error": null,
+  "errorMessage": null
+}

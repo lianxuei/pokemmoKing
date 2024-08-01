@@ -1,0 +1,293 @@
+{
+	"success": true,
+	"result": {
+		"children": [{
+				"operate": "切胖嘟嘟戏法",
+				"children": [{
+					"operate": "切快龙+4+4",
+					"children": [],
+					"label": "觉电/妙蛙",
+					"id": 2
+				}],
+				"label": "水箭龟",
+				"id": 1
+			},
+			{
+				"operate": "顺风送掉",
+				"children": [{
+					"operate": "切胖嘟嘟戏法",
+					"children": [{
+						"operate": "切快龙+4+4",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 2
+				}],
+				"label": "喷火龙",
+				"id": 3
+			},
+			{
+				"operate": "切胖嘟嘟戏法",
+				"children": [{
+					"operate": "切快龙+4+4",
+					"children": [],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "妙蛙花",
+				"id": 3
+			},
+			{
+				"operate": "切胖嘟嘟戏法",
+				"children": [{
+					"operate": "切快龙+4+4",
+					"children": [],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "卡比兽",
+				"id": 5
+			},
+			{
+				"operate": "临别切胖嘟嘟戏法",
+				"children": [{
+					"operate": "切快龙+4+4",
+					"children": [],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "太阳伊布",
+				"id": 3
+			},
+			{
+				"operate": "顺风送掉",
+				"children": [{
+					"operate": "火神蛾虫鸣点掉",
+					"children": [{
+							"operate": "被吼叫上刺甲贝送死",
+							"children": [{
+								"operate": "切胖嘟嘟戏法",
+								"children": [{
+									"operate": "上快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+									"children": [],
+									"label": "●",
+									"id": 1
+								}],
+								"label": "●",
+								"id": 2
+							}],
+							"label": "●",
+							"id": 3
+						},
+						{
+							"operate": "切胖嘟嘟戏法",
+							"children": [{
+								"operate": "快龙+4+4",
+								"children": [],
+								"label": "●",
+								"id": 4
+							}],
+							"label": "●",
+							"id": 5
+						}
+					],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "皮卡丘",
+				"id": 7
+			},
+			{
+				"operate": "除雾临别",
+				"children": [{
+					"operate": "切快龙切胖嘟嘟戏法",
+					"children": [{
+						"operate": "切月布哈欠接棒刺甲贝",
+						"children": [{
+							"operate": "破壳1推队",
+							"children": [],
+							"label": "●",
+							"id": 6
+						}],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"attention": "被冰冻送掉流程一样",
+				"label": "巨沼怪",
+				"id": 3
+			},
+			{
+				"operate": "除雾临别",
+				"children": [{
+						"operate": "切快龙龙舞",
+						"children": [
+							{
+								"operate": "劈瓦羽栖龙舞5次",
+								"children": [],
+								"label": "不跑",
+								"id": 4
+							},
+							{
+								"operate": "切胖嘟嘟戏法锁终极吸，上火神蛾蝶舞x4替身推",
+								"children": [],
+								"label": "跑大菊花",
+								"id": 7
+							}
+						],
+						"label": "锁喷火",
+						"id": 6
+					}
+					
+				],
+				"attention": "赶时间打法:除雾临别切快龙龙爪换火神蛾蝶舞x2 替身推(适用于5搬+赤龙爪暴击乱表)",
+				"label": "天蝎王",
+				"id": 3
+			},
+			{
+				"operate": "切刺甲贝送掉",
+				"children": [{
+					"operate": "胖嘟嘟戏法",
+					"children": [{
+						"operate": "快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "炎武王",
+				"id": 3
+			},
+			{
+				"operate": "顺风",
+				"children": [{
+					"operate": "火神蛾虫鸣点掉",
+					"children": [{
+						"operate": "被吼叫上刺甲贝送死",
+						"children": [{
+							"operate": "切胖嘟嘟戏法",
+							"children": [{
+								"operate": "快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+								"children": [],
+								"label": "●",
+								"id": 1
+							}],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "●",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "君主蛇",
+				"id": 7
+			},
+			{
+				"operate": "临别",
+				"children": [{
+					"operate": "火神蛾虫鸣点掉",
+					"children": [{
+						"operate": "被吼叫上刺甲贝送死",
+						"children": [{
+							"operate": "胖嘟嘟戏法",
+							"children": [{
+								"operate": "快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+								"children": [],
+								"label": "●",
+								"id": 1
+							}],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "●",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "大剑鬼",
+				"id": 7
+			},
+			{
+				"operate": "顺风临别",
+				"children": [{
+					"operate": "火神蛾喷火点掉",
+					"children": [{
+						"operate": "被吼叫上刺甲贝送死",
+						"children": [{
+							"operate": "胖嘟嘟戏法",
+							"children": [{
+								"operate": "快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+								"children": [],
+								"label": "●",
+								"id": 1
+							}],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "●",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "龙头地鼠",
+				"id": 7
+			},
+			{
+				"operate": "顺风",
+				"children": [{
+					"operate": "火神蛾虫鸣点掉",
+					"children": [{
+						"operate": "被吼叫上刺甲贝送死",
+						"children": [{
+							"operate": "胖嘟嘟戏法",
+							"children": [{
+								"operate": "快龙龙舞x2羽栖x1龙舞x1羽栖x1推队",
+								"children": [],
+								"label": "●",
+								"id": 1
+							}],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "●",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "三首恶龙",
+				"id": 7
+			},
+			{
+				"operate": "风妖精送掉",
+				"children": [{
+					"operate": "月布哈欠接棒刺甲贝",
+					"children": [{
+						"operate": "破壳1推队",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"attention": "企鹅乱1但是水炮打不死刺甲贝",
+				"label": "姆克鹰",
+				"id": 7
+			}
+
+		]
+	},
+	"error": null,
+	"errorMessage": null
+}
