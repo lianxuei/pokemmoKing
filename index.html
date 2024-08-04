@@ -3,10 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=yes" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=yes" >
     <title>pokemmoKing</title>
-
-
 </head>
 
 <body>
@@ -23,7 +21,8 @@
             <a class="header-a" href="pc.html">PC</a>
 
             <a class="header-a" href="friend.html">友情推荐</a>
-            <a class="header-contact" onclick="showAlert()">我要加群</a>
+            <a class="header-contact"  data-group-id="941186537" id="copyBtn1">我要加群</a>
+            <!-- <a class="header-contact" onclick="showAlert()">我要加群</a> -->
             <!-- <button onclick="showAlert()">点击显示弹窗</button> -->
 
             <div id="alertBox" class="alert">
@@ -55,8 +54,17 @@
             <div class="goods-list flex-1">
                 <div class="goods-item column">
                     <img class="goods-img" src="./img/logo-yibu.png" alt="">
+                    <p class="goods-name">天王APP <span>最新</span></p>
+                    <p class="goods-tip-1">最新版本首发-v2.0.0</p>
+                    <p class="goods-tip-2">修改UI、道馆、凤王、赤红</p>
+                    <p class="goods-tip-3">天王道馆/树果孵蛋</p>
+                    <a class="goods-button"
+                        href="https://116-142-255-144.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-20/5601dca6/1818434627-0/5601dca6209e6f9f00f831b43a41a014/c-m48?v=5&t=1722852997&s=17228529974a6b7b35f6c5e151928df39ea9d569e1&r=6C88T6&bzc=1&bzs=1818434627&filename=2.0.0%E4%BF%AE%E6%94%B9UI%E3%80%81%E8%B5%A4%E7%BA%A2%E3%80%81%E9%81%93%E9%A6%86.apk&x-mf-biz-cid=7c47e89b-d4a1-4794-8e6f-feabe7551569-584000&auto_redirect=0&cache_type=1&xmfcid=3caa1f6c-a4e0-4aae-808a-8813f247038c-1-50111d3b1">点击下载</a>
+                </div>
+                <div class="goods-item column">
+                    <img class="goods-img" src="./img/logo-yibu.png" alt="">
                     <p class="goods-name">天王APP <span>2024</span></p>
-                    <p class="goods-tip-1">最新版本首发-v1.9.8</p>
+                    <p class="goods-tip-1">v1.9.8</p>
                     <p class="goods-tip-2">支持安卓</p>
                     <p class="goods-tip-3">天王道馆/树果孵蛋</p>
                     <a class="goods-button"
@@ -336,6 +344,28 @@
     }
 </style>
 <script>
+    // 使用文档加载完成事件确保DOM元素已经加载
+    document.addEventListener('DOMContentLoaded', function () {
+        // 获取所有的复制按钮
+        var copyButtons = document.querySelectorAll('.header-contact');
+
+        // 为每个按钮添加点击事件
+        copyButtons.forEach(function (button) {
+            button.addEventListener('click', function () {
+                // 获取按钮对应的群号文本
+                var groupId = button.getAttribute('data-group-id');
+
+                // 复制文本到剪贴板
+                navigator.clipboard.writeText(groupId).then(function () {
+                    // 复制成功的回调
+                    alert('群号' + groupId + '已复制到剪贴板');
+                }).catch(function (err) {
+                    // 复制失败的回调
+                    console.error('无法复制文本: ', err);
+                });
+            });
+        });
+    });
     // 复制文本
     // 获取需要复制的文本元素
     var textToCopy = document.querySelector('.alert text');
