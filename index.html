@@ -142,6 +142,34 @@
     }
 
     /* 顶部 */
+    /* 电脑布局 */
+    @media (min-width: 768px) {
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            justify-content: space-between;
+        }
+
+    }
+
+    /* 手机布局 */
+    @media (max-width: 767px) {
+        .header-container {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header-a {
+            margin-bottom: 10px;
+            /* 手机端导航链接底部间距 */
+        }
+
+        .header-contact {
+            display: block;
+            /* 手机端联系按钮宽度调整 */
+        }
+    }
+
     .header {
         width: 100%;
         height: 80px;
