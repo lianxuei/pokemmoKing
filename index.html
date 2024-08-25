@@ -21,7 +21,8 @@
             <a class="header-a" href="pc.html">PC</a>
 
             <a class="header-a" href="friend.html">友情推荐</a>
-            <a class="header-contact" data-group-id="941186537" id="copyBtn1">我要加群</a>
+            <!-- <a class="header-contact" data-group-id="941186537" id="copyBtn1">我要加群</a> -->
+            <a target="_blank" class="header-contact" data-group-id="941186537" id="copyBtn1" href="https://qm.qq.com/cgi-bin/qm/qr?k=46JyWR6WNrzNzsZTQ_YUdBSM-ceA8uHr&jump_from=webapi&authKey=VavspXKj3X2Y+w9/NYnZuPwi1gnhJnqzBXqIx6I0yILSxMEvZPwcZvVd6ho/uwg4">我要加群</a>
             <!-- <a class="header-contact" onclick="showAlert()">我要加群</a> -->
             <!-- <button onclick="showAlert()">点击显示弹窗</button> -->
 
@@ -141,122 +142,7 @@
         color: black;
     }
 
-    /* 顶部 */
-    /* 电脑布局 */
-    @media (min-width: 768px) {
-        .header-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            justify-content: space-between;
-        }
-
-    }
-
-    /* 手机布局 */
-    @media (max-width: 767px) {
-        .header-container {
-            flex-direction: column;
-            align-items: center;
-        }
-
-        .header-a {
-            margin-bottom: 10px;
-            /* 手机端导航链接底部间距 */
-        }
-
-        .header-contact {
-            display: block;
-            /* 手机端联系按钮宽度调整 */
-        }
-    }
-
-    .header {
-        width: 100%;
-        height: 80px;
-        background-color: #ffffff;
-        position: fixed;
-        top: 0;
-        z-index: 999;
-        box-shadow: 0px 3px 8px 0px rgba(0, 72, 129, 0.1);
-    }
-
-    .header-container,
-    .header-logo {
-        height: 80px;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .container {
-        width: 100%;
-        max-width: 1116.8px;
-        /* 这将确保容器的最大宽度不会超过1116.8px */
-        margin: 0 auto;
-    }
-
-    .header-logo {
-        height: 80px;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .flex-1 {
-        flex: 1;
-    }
-
-    .row {
-        display: flex;
-        flex-direction: row;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    .header-img-1 {
-        width: 36px;
-        height: 36px;
-        margin-right: 8px;
-    }
-
-    .header-span-1 {
-        font-size: 19px;
-        color: #001E36;
-        font-weight: bold;
-    }
-
-    .header-a {
-        width: 130px;
-        height: 40px;
-        font-size: 30px;
-        color: #001E36;
-        font-weight: bold;
-        margin-right: 40px;
-        text-align: center;
-        display: inline-block;
-        text-decoration: none;
-    }
-
-    .header-contact {
-        cursor: pointer;
-        width: 140px;
-        height: 40px;
-        background: #1473E6;
-        border-radius: 20px;
-        display: inline-block;
-        line-height: 40px;
-        font-weight: bold;
-        font-size: 25px;
-        color: #ffffff;
-        margin-left: 50px;
-        text-align: center;
-    }
-
+    
     /* 主体 */
     .goods-container {
         height: auto;
@@ -384,6 +270,17 @@
     }
 </style>
 <script>
+    // 根据设备类型加载不同的CSS文件 
+    document.addEventListener('DOMContentLoaded', function () {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        if (window.innerWidth < 768) { // 假设768px以下是手机
+            link.href = 'styles-mobile.css'; // 手机端样式
+        } else {
+            link.href = 'styles-pc.css'; // PC端样式
+        }
+        document.head.appendChild(link);
+    });
     // 使用文档加载完成事件确保DOM元素已经加载
     document.addEventListener('DOMContentLoaded', function () {
         // 获取所有的复制按钮
